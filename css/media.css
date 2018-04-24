@@ -1,0 +1,14 @@
+/*Tamaño de pantalla de Telefono moviles (landscape Telefono, 576px o mayor que 576px)*/
+@media screen and (max-width: 575.98px) { 
+
+}
+
+/*Tamaño de pantalla de Tableta (Tableta en formato portrait, 768px o mayor que)*/
+@media screen and (max-width: 767.98px) { 
+
+}
+
+/*Tamaño de dispositivos mayores de tablet*/
+@media screen and (max-width: 991.98px) { 
+
+}
